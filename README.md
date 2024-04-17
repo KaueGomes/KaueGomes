@@ -23,7 +23,10 @@ I'm a Brazilian code adventurer 👨‍💻 with 6 years of hands-on **customer 
 
 <hr>
 <img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-<a href=https://www.linkedin.com/in/kaue-della-barba-gomes/><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&color=0077B5"></a>
-<a href="https://www.instagram.com/kauedbg/"><img src="https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram&color=E1306C&logoColor=white"></a>
-<a href="https://github.com/KaueGomes"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"></a>
-<a href="https://stackoverflow.com/users/14230862/kaue-gomes?tab=profile"><img src="https://img.shields.io/badge/StackOverflow-gray?style=flat&logoColor=white&logo=stackoverflow&color=F58025"></a>
+<div align="center">
+	<a href=https://www.linkedin.com/in/kaue-della-barba-gomes/><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&color=0077B5"></a>
+	<a href="https://www.instagram.com/kauedbg/"><img src="https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram&color=E1306C&logoColor=white"></a>
+	<a href="https://github.com/KaueGomes"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&logoColor=white"></a>
+	<a href="https://stackoverflow.com/users/14230862/kaue-gomes?tab=profile"><img src="https://img.shields.io/badge/StackOverflow-gray?style=flat&logoColor=white&logo=stackoverflow&color=F58025"></a>
+</div>
+
