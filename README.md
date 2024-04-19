@@ -1,7 +1,7 @@
-# Kaue Gomes
-**`2000s Survivor`** **`Maker`** **`Moved by Coffee`**
+# Kaue Gomes <img align="right" src="https://komarev.com/ghpvc/?username=kauegomes" alt="kauegomes" />
+**`2000s Survivor`** **`Maker`** **`Moved by Coffee`** 
 
-<div align="center" id="Languages icons">
+<div align="center" id="Languages icons"> 
 	<img alt="python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 	<img alt="sqlite" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
 	<img alt="html5" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
